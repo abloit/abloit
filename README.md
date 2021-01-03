@@ -2,7 +2,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=abloit&count_private=true&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abloit&theme=algolia&layout=compact">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abloit&theme=algolia&hide_border=true&layout=compact">
 
 Hi 👋 I am a young developer from <img width="20" align="center" src="https://www.flaticon.com/svg/static/icons/svg/330/330523.svg"> **Germany**.
 
