@@ -8,7 +8,7 @@ Hi 👋 I am a young developer from <img width="20" align="center" src="https://
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
-<a href="https://twitter.com/absoft1" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a> <a href="https://discord.gg/tHx9ZKG" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
+<a href="https://twitter.com/absoft1" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a> <a href="https://discord.com/users/711342691656532021/" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
 <br>
 The passion to develop started as a hobby at a young age and now I am always trying to improve my skills, always learning new things in my free times. Currently I am mostly using these technologies to create apps that people use:
 
